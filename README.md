@@ -1,7 +1,4 @@
 # FullStack Phase1 Assignment
-
-# Scraping_BBC_website_getNews
-
 ## Project prospective 
 
 ### A distributed user Files database system stores and manage the user files like the following:
